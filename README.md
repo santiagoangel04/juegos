@@ -6,3 +6,7 @@ siguiente link.
 En la seccion de descargas (downloads), descarga la ultima seccion y dejalo todo por defecto.
 luego clona el repositorio:
 >Nota: es importante que tengas git instalado
+```
+git clone https://github.com/santiagoangel04/juegos.git
+```
+despues de esto puedes comenzar a interactuar, dale amor si te gusto
