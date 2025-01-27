@@ -1,7 +1,4 @@
 #Esta version sus parejas son hechas con letras de la A a la H
-#Si desea ver la version con imagenes, dirijase a la carpeta
-#"Juego con imagenes" y ejecute ese script de python que se
-#Encuentra en esa carpeta
 import pygame
 import random
 import sys
